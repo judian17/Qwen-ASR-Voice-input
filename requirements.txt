@@ -1,0 +1,8 @@
+wxPython
+pyaudio
+websocket-client
+openai
+pynput
+configparser
+wxPython
+pyperclip
