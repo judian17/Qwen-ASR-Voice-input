@@ -1,3 +1,5 @@
+[[English]](README.md)
+
 # AI 语音输入法 (Yinput)
 
 ## 项目简介
